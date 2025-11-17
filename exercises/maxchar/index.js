@@ -5,6 +5,10 @@
 // maxChar("abcccccccd") === "c"
 // maxChar("apple 1231111") === "1"
 
-function maxChar(str) {}
+function maxChar(str) {
+    // let charMap = {}
+    let charMap = new Map();
+
+}
 
 module.exports = maxChar;
